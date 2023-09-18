@@ -9,7 +9,6 @@ This is a simple Python application that checks the strength of a password based
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Features](#features)
 
 ## Getting Started
 
