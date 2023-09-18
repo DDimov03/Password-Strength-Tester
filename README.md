@@ -16,9 +16,9 @@ To get started with this application, follow these instructions:
 
 1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/DDimov03/Password-Strength-Tester
-   ```
+```bash
+ git clone https://github.com/DDimov03/Password-Strength-Tester
+```
 Install the required dependencies. This application uses the tkinter library, which is typically included with Python, so no additional installations are needed.
 
 # Run the application:
